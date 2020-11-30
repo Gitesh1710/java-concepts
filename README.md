@@ -1,2 +1,2 @@
 # sort-hashmap
-This is an implentation of hashmap sorting using comparator mechanism.
+This is an implementation of hashmap sorting using comparator mechanism.
